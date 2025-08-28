@@ -1,29 +1,29 @@
-💼 Real-World Dev Projects for Resume Building A curated collection of impactful projects across roles (Software Dev, Full Stack, AI/ML, Data Science, Mobile, Web3) — perfect for portfolios, interviews, and leveling up.
+Real-World Dev Projects for Resume Building A curated collection of impactful projects across roles (Software Dev, Full Stack, AI/ML, Data Science, Mobile, Web3) — perfect for portfolios, interviews, and leveling up.
 
 
 A curated list of **real-world project ideas** for different developer roles – perfect to build your portfolio and stand out in job applications. Each project includes:
-- 🚀 Use-case explanation
-- ⚙️ Tech stack
-- 🛠️ Features
-- 💡 Concepts demonstrated
+- Use-case explanation
+- Tech stack
+- Features
+- Concepts demonstrated
 
-## 🎯 Roles Covered
+## Roles Covered
 
-- 👨‍💻 Software Developer (Java/Python/Backend)
-- 🌐 Full Stack Developer (MERN, Django, Java)
-- 🤖 AI / ML Engineer
-- 📊 Data Scientist / Analyst
-- 📱 Mobile App Developer (Flutter / React Native)
-- 🕸 Web3 / Blockchain Developer
-- 🎓 Bonus Projects (Hackathons / Leadership)
+- Software Developer (Java/Python/Backend)
+- Full Stack Developer (MERN, Django, Java)
+- AI / ML Engineer
+- Data Scientist / Analyst
+- Mobile App Developer (Flutter / React Native)
+- Web3 / Blockchain Developer
+- Bonus Projects (Hackathons / Leadership)
 
-# 💼 Resume Project Hub
+# Resume Project Hub
 
 A curated list of **real-world project ideas** categorized by developer roles — perfect for building strong portfolios and acing technical interviews.
 
 ---
 
-## 👨‍💻 1. Software Developer (General / Backend / Java/Python)
+## 1. Software Developer (General / Backend / Java/Python)
 
 ### 🔹 Smart Task Scheduler (Java or Python)
 Automates and prioritizes tasks based on deadlines and workload.
@@ -39,7 +39,7 @@ Detects file changes and syncs across directories.
 
 ---
 
-## 🌐 2. Full Stack Developer (MERN / Python / Java stacks)
+## 2. Full Stack Developer (MERN / Python / Java stacks)
 
 ### 🔹 Job Portal Website
 A complete job board with recruiter and jobseeker roles.
@@ -55,7 +55,7 @@ Online learning system with course content and progress tracking.
 
 ---
 
-## 🤖 3. AI / ML Engineer
+## 3. AI / ML Engineer
 
 ### 🔹 AI-Powered Resume Ranker
 Ranks uploaded resumes against job descriptions using NLP.
@@ -71,7 +71,7 @@ Automated attendance via live face detection.
 
 ---
 
-## 📊 4. Data Scientist / Analyst
+## 4. Data Scientist / Analyst
 
 ### 🔹 Sales Forecasting Dashboard
 Visualize and predict sales trends from uploaded CSV data.
@@ -87,7 +87,7 @@ Train a churn model and visualize predictions & feature importance.
 
 ---
 
-## 📱 5. Mobile App Developer (React Native / Flutter)
+## 5. Mobile App Developer (React Native / Flutter)
 
 ### 🔹 Expense Tracker with OCR Receipts
 Tracks expenses and reads data from receipts.
@@ -103,7 +103,7 @@ Tracks user moods using emojis and trends.
 
 ---
 
-## 🌐 6. Web3 / Blockchain Developer
+## 6. Web3 / Blockchain Developer
 
 ### 🔹 Decentralized Voting App
 Secure DApp for elections with transparent results.
@@ -119,7 +119,7 @@ Mint and showcase NFTs on IPFS and OpenSea.
 
 ---
 
-## 🎓 Bonus Ideas (Leadership / Team Projects / Innovation)
+## Bonus Ideas (Leadership / Team Projects / Innovation)
 
 ### 🔹 Collaborative Whiteboard App
 Real-time whiteboard for team collaboration (like Miro).
