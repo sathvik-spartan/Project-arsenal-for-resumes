@@ -135,6 +135,7 @@ Chatbot that explains concepts and saves notes.
 
 ---
 
-> 💡 Star the repo and share it with friends looking to power up their portfolios!
+> Star the repo and share it with friends looking to power up their portfolios!
+> Since this as an open-source prep — if you’ve got insights or hacks that helped you, feel free to drop them in. It might just help someone chasing the same goal.
 
 
