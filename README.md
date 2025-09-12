@@ -1,4 +1,4 @@
-Real-World Dev Projects for Resume Building A curated collection of impactful projects across roles (Software Dev, Full Stack, AI/ML, Data Science, Mobile, Web3) — perfect for portfolios, interviews, and leveling up.
+### Real-World Dev Projects for Resume Building A curated collection of impactful projects across roles (Software Dev, Full Stack, AI/ML, Data Science, Mobile, Web3) — perfect for portfolios, interviews, and leveling up.
 
 
 A curated list of **real-world project ideas** for different developer roles – perfect to build your portfolio and stand out in job applications. Each project includes:
